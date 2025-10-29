@@ -27,7 +27,7 @@ public class Main {
         server.start();
     }
 
-    // API Handler
+
     static class ItemsHandler implements HttpHandler {
 
         @Override
