@@ -1,0 +1,6 @@
+body{font-family:Arial,Helvetica,sans-serif;background:#f9f9f9;padding:20px}
+.wrap{max-width:700px;margin:0 auto;background:white;padding:16px;border-radius:6px;box-shadow:0 1px 4px rgba(0,0,0,0.1)}
+input{padding:6px;margin:6px 0;width:100%}
+button{padding:8px 10px;margin-right:6px}
+table{width:100%;border-collapse:collapse;margin-top:10px}
+th,td{border:1px solid #ddd;padding:8px;text-align:left}
